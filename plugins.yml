@@ -1,0 +1,5 @@
+plugins:
+    - id: "configuration-as-code"
+    - id: "job-dsl"
+    - id: "role-strategy"
+    - id: "ws-cleanup"
